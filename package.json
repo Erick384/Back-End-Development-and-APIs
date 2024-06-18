@@ -1,12 +1,12 @@
 {
   "name": "back-end-development-and-apis",
   "version": "1.0.0",
-  "description": "",
+  "description": "My first lesson as a Backend Developer",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Erick",
+  "keywords": ["backend", "apis", "development"],
+  "author": "Erick Kamoko",
   "license": "ISC"
 }
